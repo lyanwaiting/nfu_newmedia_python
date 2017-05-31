@@ -15,7 +15,7 @@ pick_a_color_4web
 ## 从输入到输出，本组作品使用了：
 ### 模块
 * [folium](https://github.com/python-visualization/folium)
-* [opencv](http://opencv.org/)
+* [opencdddv](http://opencv.org/)
 ### 数据
 * [简中CLDR localenames](https://github.com/unicode-cldr/cldr-localenames-modern/blob/master/main/zh-Hans/territories.json)
 ### API
