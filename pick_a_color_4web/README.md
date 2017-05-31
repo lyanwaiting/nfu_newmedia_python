@@ -1,9 +1,9 @@
-pick_a_color_4web
+﻿pick_a_plant_4web
 
 
 		英文项目名称，必需取名合理，是目录名亦是.py後端程序（此行完成後应删）
 # 简介 
-选取的颜色，操练Python语言开发练习：使用flask
+了解植物，操练Python语言开发练习：使用flask
 
 
 		中文简介项目内容（此行完成後应删）
