@@ -4,13 +4,13 @@
 
 <h2>{{ the_title }}</h2>
 
-<form method='POST' action='/pick_a_color'>
+<form method='POST' action='/pick_a_flower'>
 <table>
-<th colspan="2">请选取颜色：</th>
-<tr><td>颜色: </td><td><input type="color" name="user_color" /></td></tr>
+<th colspan="2">请输入植物名:</th>
+<tr><td>花名: </td><td><input type="text" name="flower_name" /></td></tr>
 </table>
-<p>准备就绪后, 单击此按钮：</p>
-<p><input value='搞吧！' type='SUBMIT'></p>
+<p>准备就绪后, 单击此按钮:</p>
+<p><input value='开始' type='SUBMIT'></p>
 </form>
 
 {% endblock %}
