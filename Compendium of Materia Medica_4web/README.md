@@ -14,8 +14,7 @@
 * [requests](http://docs.python-requests.org/zh_CN/latest/user/quickstart.html#id2)
 
 ### 数据
-* [简中CLDR localenames]
-* [http://api.jisuapi.com/bencao/chapter)
+* [http://api.jisuapi.com/bencao/chapter?appkey=bdc8ee0bb0227112]
 
 ## 作者成员：
 见[_team_.tsv](_team_/_team_.tsv)
