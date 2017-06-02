@@ -1,5 +1,4 @@
-﻿pick_a_plant_4web
-
+﻿Compendium of Materia Medica_4web （本草纲目） 
 
 # 简介 
 了解本草纲目，输入本草纲目药物名，输出相关简，如：释名、气味、主治。操练Python语言开发练习：使用flask
