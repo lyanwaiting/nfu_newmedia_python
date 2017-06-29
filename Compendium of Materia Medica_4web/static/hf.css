@@ -59,3 +59,13 @@ border:             thin dotted gray;
 }
 
 /*** Inputs ***/
+input[type=text] {
+  font-size:        115%;
+  width:            30em;
+}
+input[type=submit] {
+  font-size:        125%;
+}
+select {
+  font-size:        125%;
+}
